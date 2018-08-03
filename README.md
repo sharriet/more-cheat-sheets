@@ -6,5 +6,6 @@ So far we have...
 
 + Vim cheat sheet
 + Unix cheat sheet
++ Git cheat sheet
 
 Feel free to contribute others!
