@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="unix-cheat-sheet.svg"
-   inkscape:export-filename="/home/sorrel/git/wall-graphics/more-cheat-sheets/vim-cheat-sheet-preview.png"
+   inkscape:export-filename="/home/sorrel/git/wall-graphics/more-cheat-sheets/unix-cheat-sheet-preview.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
@@ -146,7 +146,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="698.56083"
+     inkscape:cx="456.41797"
      inkscape:cy="426.38889"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -223,7 +223,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -721,7 +721,7 @@
            height="61.42857"
            x="167.14285"
            y="772.36218" /></flowRegion><flowPara
-         id="flowPara7760"></flowPara></flowRoot>    <flowRoot
+         id="flowPara7760" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot7993"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
@@ -731,7 +731,7 @@
            height="205.71428"
            x="590"
            y="920.93359" /></flowRegion><flowPara
-         id="flowPara7999"></flowPara></flowRoot>    <text
+         id="flowPara7999" /></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="68.226868"
@@ -979,7 +979,7 @@
            height="781.42859"
            x="1000"
            y="356.64789" /></flowRegion><flowPara
-         id="flowPara9118"></flowPara></flowRoot>    <text
+         id="flowPara9118" /></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="999.13373"
@@ -1111,17 +1111,6 @@
          id="tspan8151-6">e.g.<tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Courier;-inkscape-font-specification:'Courier Bold';fill:#d4aa00"
    id="tspan8149-8"> mysql &lt; queries.sql </tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="736.85712"
-       y="575.2193"
-       id="text9271"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan9273"
-         x="736.85712"
-         y="575.2193">gi</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
